@@ -282,10 +282,10 @@
 					<form action="POST" data-netlify="true">
 						<div class="fields">
 							<div class="field half">
-								<input type="text" name="name" id="name" placeholder="Name" />
+								<input required type="text" name="name" id="name" placeholder="Name" />
 							</div>
 							<div class="field half">
-								<input
+								<input required
 									type="email"
 									name="email"
 									id="email"
@@ -293,7 +293,7 @@
 								/>
 							</div>
 							<div class="field">
-								<textarea
+								<textarea required
 									name="message"
 									id="message"
 									placeholder="Message"
@@ -303,7 +303,7 @@
 						</div>
 						<ul class="actions">
 							<li>
-								<input
+								<input required
 									type="submit"
 									value="Send Message"
 									class="button primary"
