@@ -1,17 +1,17 @@
-<h1 align="center">2022 Portfolio | <a href="https://sebastianospina.netlify.app">Visit here!</a></h1>
+<h1 align="center">2022 Portfolio | <a href="https://ethodeus.github.io/breaking-bad-info-page/">Visit here!</a></h1>
 <div align="center">
   <a href='https://sebastianospina.netlify.app'>
-	  <img src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Project-images/Porfolio/ezgif.com-gif-maker%20(1).gif" width="100%" />
+	  <img src="https://raw.githubusercontent.com/Ethodeus/readme-assets/master/GitHub%20Profile/Project-images/Breaking-bad/ezgif.com-gif-maker.gif" width="100%" />
   </a>
 </div>
 
-<h3 align="center"> Portfolio Site including links to my projects and ways to get in contact with me.</h3>
+<h3 align="center">Platform for Breaking Bad fans to find general information about their favorite characters!</h3>
 <br>
 <br>
 
 ## How It's Made:
 
-This is my first online portfolio, I really focused on the separation of concerns by ensuring that I was only dedicating the HTML to holding content, the CSS to holding styling and the JavaScript to holding any behavioural interactions. 
+This is my second attempt on creating a simple app with API integration 
 
 ## Optimizations
 
