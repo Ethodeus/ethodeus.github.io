@@ -156,9 +156,7 @@ $(document).ready(function () {
 			// Stop propagation.
 			event.stopPropagation();
 		})
-		.prepend(
-			'<div class="modal" tabIndex="-1"><div class="inner"><img src="" /></div></div>'
-		)
+		.prepend('<div class="modal" tabIndex="-1"><div class="inner"><img src="" /></div></div>')
 		.find('img')
 		.on('load', function (event) {
 			var $modalImg = $(this),
@@ -173,3 +171,6 @@ $(document).ready(function () {
 			}, 275);
 		});
 })(jQuery);
+
+const watermark = document.querySelector('spline-watermark');
+watermark.target = '_blank';
