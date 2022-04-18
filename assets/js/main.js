@@ -171,6 +171,3 @@ $(document).ready(function () {
 			}, 275);
 		});
 })(jQuery);
-
-const watermark = document.querySelector('spline-watermark');
-watermark.target = '_blank';
