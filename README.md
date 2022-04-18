@@ -24,6 +24,7 @@ This is my first online portfolio, I really focused on the separation of concern
 </div>
 
 ##
+<br>
 
 ## Optimizations
 
