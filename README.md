@@ -28,7 +28,7 @@ This is my first online portfolio, I really focused on the separation of concern
 
 ## Optimizations
 
-I encountered many errors when trying to implement the interactive dev_ethos logo at the beginning. This was the first time that I had to do research on stackoverflow to solve these issues. Google has always been one of my 'best friends". At the end, we had to extend a little the loading animation of the site for the logo to load before everything else loads. 
+I encountered many errors when trying to implement the interactive dev_ethos logo at the beginning. This was the first time that I had to do research on stackoverflow to solve these issues. Google has always been one of my 'best friends". Finally, I extended the loading time of the animation to allow the logo to load before everything else.
 
 ## Lessons Learned:
 
